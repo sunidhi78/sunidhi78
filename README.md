@@ -1,15 +1,3 @@
-<div id="badges">
-    <a href="https://www.linkedin.com/in/nishitkashyap">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/13_nishitK">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-
-   <img src="https://komarev.com/ghpvc/?username=nishit123-git&style=flat-square&color=blue" alt=""/>
-
-
 <h1 align="center">Hi 👋, I'm Sunidhi Thakur</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="250" />
