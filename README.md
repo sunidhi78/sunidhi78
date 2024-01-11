@@ -24,17 +24,3 @@
 -- 📫 How to reach me ****
 
 - 📄 Know about my experiences [)
-
-
-
-
-
-
-&nbsp;
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishit123-git&show_icons=true&locale=en&theme=great-gatsby&cardType=github" alt="nishit123-git" />
-</div>
-&nbsp;
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishit123-git&show_icons=true&locale=en&layout=compact&theme=dark" alt="nishit123-git" />
-</div>
